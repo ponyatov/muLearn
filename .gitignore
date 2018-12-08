@@ -2,3 +2,7 @@
 *.swp
 
 doxygen_sqlite3.db
+
+muLearn.x64
+muLearn.exe
+

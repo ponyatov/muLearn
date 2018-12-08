@@ -6,7 +6,7 @@ From: Dmitry Ponyatov <dponyatov@gmail.com>
 Date: сб, 8 дек. 2018 г. в 09:34
 Subject: Проект по микрообучению еще жив? Не увидел у вас веб-портал 
 To: <maxim@studyx.co>, <alex@studyx.co>
-Cc: Дмитрий Родин <rodin.ssau@gmail.com>, Игонин Андрей <aaignn@gmail.com>, Илья Лумпов <i@lumpov.ru>
+Cc: Дмитрий Родин <>, Игонин Андрей <>, Илья Лумпов <>
 
 
 Добрый день
